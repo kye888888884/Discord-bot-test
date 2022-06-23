@@ -1,2 +1,2 @@
-# Discord-bot-test
+# Discord Bot Tutorial
 My first discord bot
